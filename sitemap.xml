@@ -1,0 +1,11 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://example.com/index.html</loc>
+	</url>
+	<url>
+		<loc>http://example.com/Payment.html</loc>
+	</url>
+	<url>
+		<loc>http://example.com/Shop.html</loc>
+	</url>
+</urlset>
