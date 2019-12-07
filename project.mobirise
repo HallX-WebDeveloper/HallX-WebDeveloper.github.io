@@ -574,7 +574,7 @@
             }
           },
           "_name": "custom-html",
-          "_customHTML": "<script data-ad-client=\"ca-pub-3406774777269487\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>",
+          "_customHTML": "<script data-ad-client=\"ca-pub-3406774777269487\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n<script data-ad-client=\"ca-pub-3406774777269487\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>",
           "_cid": "rJZDrVPW6V",
           "_anchor": "custom-html-f",
           "_protectedParams": [],
