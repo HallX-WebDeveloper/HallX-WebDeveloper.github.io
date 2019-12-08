@@ -43,9 +43,9 @@
     "favicon": false,
     "noImageResize": true,
     "robotsSwitcher": true,
-    "sitemapSwitcher": true,
+    "sitemapSwitcher": false,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": "http://example.com",
+    "siteUrl": false,
     "cookiesAlert": {
       "customDialogSelector": false,
       "colorText": "#424a4d",
